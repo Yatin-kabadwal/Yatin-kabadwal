@@ -3,7 +3,7 @@
 - 👀 I’m interested in creating innovative and user-friendly mobile applications.
 - 🌱 I’m currently learning new technologies to enhance my development skills.
 - 💞️ I’m looking to collaborate on exciting Android projects and contribute to open-source.
-- 📫 How to reach me: yatinkabdwal@gmail.com
+- 📫 How to reach me: yatinkabdwal@gmail.com | www.linkedin.com/in/yatin-173-kabadwal
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring the latest trends in mobile app design and development.
 
