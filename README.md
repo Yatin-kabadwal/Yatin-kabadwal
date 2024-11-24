@@ -1,4 +1,4 @@
-👋 Hi, I’m @Yatin-kabadwal, a passionate Android app developer.
+👋 Hi, I’m @Yatin-kabadwal, a passionate App developer.
 
 - 👀 I’m interested in creating innovative and user-friendly mobile applications.
 - 🌱 I’m currently learning new technologies to enhance my development skills.
