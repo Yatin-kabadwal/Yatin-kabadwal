@@ -3,7 +3,7 @@
 - 👀 I’m interested in creating innovative, user-friendly mobile applications and dynamic web applications.
 - 🌱 I’m currently learning new technologies to enhance my Android and full-stack development skills.
 - 💞️ I’m looking to collaborate on exciting Android projects, MERN stack applications, and contribute to open-source.
-- 📫 How to reach me: yatinkabdwal@gmail.com | www.linkedin.com/in/yatin-173-kabadwal.
+- 📫 How to reach me: yatinkabdwal@gmail.com | www.linkedin.com/in/yatin-173-kabadwal | https://yatinkabadwal.vercel.app/ 
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love exploring the latest trends in mobile app & web development, UI/UX design, and emerging tech!
 
